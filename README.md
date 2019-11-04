@@ -11,3 +11,13 @@
 3. [Преобразование типов / Операторы / Операторы сравнения](https://slides.com/technoschool/js-3/fullscreen)  
 4. [Условные операторы / логические операторы](https://slides.com/technoschool/js_logical-operators/fullscreen)  
 5. [цикл while](https://slides.com/technoschool/js-while/fullscreen)
+
+
+
+# Таблица результатов
+| Задание       | Игорь           | Никита        |
+|:------------- |:---------------:| -------------:|
+| Верстка 1     | 1               | 1+            |
+| Верстка 2     | 1+              | -             |
+| JS 1          | 1+              | 1             |
+| JS 2          | 1+              | -             |
