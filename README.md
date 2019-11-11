@@ -10,7 +10,8 @@
 2. [Переменные / Основные типы данных](https://slides.com/technoschool/hello-again/fullscreen)  
 3. [Преобразование типов / Операторы / Операторы сравнения](https://slides.com/technoschool/js-3/fullscreen)  
 4. [Условные операторы / логические операторы](https://slides.com/technoschool/js_logical-operators/fullscreen)  
-5. [цикл while](https://slides.com/technoschool/js-while/fullscreen)
+5. [цикл while](https://slides.com/technoschool/js-while/fullscreen)  
+6. [цикл for](https://slides.com/technoschool/js-for/fullscreen)
 
 
 
