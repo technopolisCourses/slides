@@ -6,7 +6,9 @@
 4. [CSS, II часть](https://slides.com/technoschool/css-part-2/fullscreen)  
 5. [Шрифты](https://slides.com/technoschool/fonts/fullscreen)  
 6. [Текст](https://slides.com/technoschool/text/fullscreen)  
-7. [Модель отображения](https://slides.com/technoschool/display-model/fullscreen)
+7. [Модель отображения I](https://slides.com/technoschool/display-model/fullscreen)  
+8. [Модель отображения II](https://slides.com/technoschool/display-model2/fullscreen)
+
 ## JavaScript
 1. [Вводная](https://slides.com/andrey11/deck/fullscreen)  
 2. [Переменные / Основные типы данных](https://slides.com/technoschool/hello-again/fullscreen)  
@@ -14,7 +16,8 @@
 4. [Условные операторы / логические операторы](https://slides.com/technoschool/js_logical-operators/fullscreen)  
 5. [цикл while](https://slides.com/technoschool/js-while/fullscreen)  
 6. [цикл for](https://slides.com/technoschool/js-for/fullscreen)  
-7. [function](https://slides.com/technoschool/js-function/fullscreen)
+7. [function](https://slides.com/technoschool/js-function/fullscreen)  
+8. [Object](https://slides.com/technoschool/js-object/fullscreen)
 
 
 
